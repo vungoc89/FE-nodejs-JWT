@@ -1,1 +1,30 @@
 npm install --save-exact sass@1.48.0
+
+https://v5.reactrouter.com/web/guides/quick-start
+
+npm install --save-exact react-router-dom@5.3.0
+
+npm install --save-exact bootstrap@5.1.3
+import 'bootstrap/dist/css/bootstrap.min.css'; "in App.js"
+
+npm install --save-exact axios@0.25.0    (con co 2 thu vien khac la: fetch, request)
+
+test api: 
+https://reqres.in/api/users?page=2
+
+
+https://fkhadra.github.io/react-toastify/installation
+npm install --save-exact react-toastify@8.1.0
+
+App.js => 
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+Register.js => 
+import { ToastContainer, toast } from 'react-toastify';
+
+//-------------------------------
+https://github.com/axios/axios
+
+Session: 
+npm install --save-exact lodash@4.17.21
